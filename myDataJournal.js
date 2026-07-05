@@ -1,3 +1,7 @@
+// Isaac Garcia
+// CS81, sect. 1233
+// https://github.com/IsaacG-SMC/cs81-modulel4b-mydataexplorer
+
 // Weekly Journal
 const weekData = [
     {day: "Sunday", sleepHours: 7, screenTime: 6.5, mood: "Joyful", caffineIntake: 0, focusLevel: 6},
